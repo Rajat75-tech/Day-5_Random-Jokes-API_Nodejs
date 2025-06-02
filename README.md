@@ -11,9 +11,9 @@ Follow these steps to run the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Rajat75-tech/Day-5_Random-Image-API_Nodejs.git
-   cd Day-5_Random-Image-API_Nodejs
-Install dependencies:
+   ****git clone https://github.com/Rajat75-tech/Day-5_Random-Image-API_Nodejs.git*****
+   ***cd Day-5_Random-Image-API_Nodejs****
+## Install dependencies:
 
 bash
 Copy
@@ -31,7 +31,7 @@ arduino
 Copy
 Edit
 http://localhost:3000
-📡 API Endpoint
+## 📡 API Endpoint
 Get a random joke
 Endpoint: GET /api/jokes/random
 
@@ -39,13 +39,13 @@ Description: Returns a random joke in JSON format.
 
 Example response:
 
-json
+## json
 Copy
 Edit
 {
   "joke": "Why don’t scientists trust atoms? Because they make up everything!"
 }
-🧪 Testing the API
+## 🧪 Testing the API
 Open your browser and go to:
 
 bash
@@ -58,19 +58,19 @@ Method: GET
 
 URL: http://localhost:3000/api/jokes/random
 
-📦 Dependencies
+## 📦 Dependencies
 Express - Fast, unopinionated, minimalist web framework for Node.js
 
-Install Express with:
+## Install Express with:
 
 bash
 Copy
 Edit
-npm install express
-📁 Project Structure
-index.js — Main server file that handles the API logic
+*npm install express*
+## 📁 Project Structure
+*index.js — Main server file that handles the API logic*
 
-package.json — Project setup, metadata, and dependencies
+*package.json — Project setup, metadata, and dependencies*
 
-📝 License
+## 📝 License
 This project is free to use for learning and fun!
